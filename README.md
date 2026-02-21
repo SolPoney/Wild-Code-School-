@@ -1,2 +1,1 @@
-# Wild-Code-School-
-Challenge github
+Prêt·e pour ma formation à la Wild Code School
